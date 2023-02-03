@@ -14,6 +14,11 @@ function multiply(value1, value2) {
   return value1 +  ' multiplied ' + value2 + ' = ' + value1 * value2
 }    
 
+alert(add(14,15))
+alert(divide(100,20))
+alert(subtract(25,4))
+alert(multiply(19,3))
+
 let now = new Date();
 
 let days = new Array('Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday');
